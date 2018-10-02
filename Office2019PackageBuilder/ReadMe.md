@@ -12,7 +12,8 @@ When deploying with the final package, sending Telemetry Data to Microsoft is di
 This script was tested under macOS Mojave, v10.14.0.
 
 
-###Based on ideas and scripts from:
+### Based on ideas and scripts from:
+
 - Rich Trouton:
   - https://derflounder.wordpress.com/2015/08/05/creating-an-office-2016-15-12-3-installer/
   - https://derflounder.wordpress.com/2016/01/14/creating-an-office-2016-15-18-0-installer/
@@ -31,7 +32,7 @@ This script was tested under macOS Mojave, v10.14.0.
 
 - ITS Client Delivery group of ETH Zurich
  
-###How to use the script?
+### How to use the script?
 
 1.	Save the MS_Office_2019_PKGBuilder-Script in a folder on your local machine.
 
@@ -63,7 +64,8 @@ This script was tested under macOS Mojave, v10.14.0.
 8.	You can now use this package to distribute inside your organization.
 
 
-###What can you configure?
+### What can you configure?
+
 The following parameters are used and might be changed to fit your needs. The default value is defined below:
 
 1.	`PRODUCT="Microsoft_Office_2019"`
